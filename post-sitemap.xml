@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/best-dinner-to-eat-in-nepal/</loc>
+		<lastmod>2026-03-23T16:14:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/must-try-foods-in-kathmandu/</loc>
+		<lastmod>2026-03-23T16:09:05+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/monalisa-thakali-history/</loc>
-		<lastmod>2026-03-19T15:41:12+00:00</lastmod>
+		<lastmod>2026-03-22T14:48:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/thakali-food-history/</loc>
-		<lastmod>2026-03-19T14:07:24+00:00</lastmod>
+		<lastmod>2026-03-22T14:47:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/authentic-thakali-food-culture/</loc>
-		<lastmod>2026-03-19T13:37:46+00:00</lastmod>
+		<lastmod>2026-03-22T14:46:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/traditional-nepali-food/</loc>
+		<lastmod>2026-03-20T12:28:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/best-thakali-set-in-kathmandu/</loc>
+		<lastmod>2026-03-20T12:12:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/what-is-thakali-food-guide-to-nepals-traditional-thakali-meal-by-monalisa-thakali/</loc>
