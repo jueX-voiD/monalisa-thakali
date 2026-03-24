@@ -80,6 +80,25 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/about/</loc>
+		<lastmod>2026-03-24T03:23:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/assets/uploads/2026/02/hero-section-bg.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/assets/uploads/2026/03/a8b2ab00789a4ef107b342548114974053f49f07.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/assets/uploads/2026/03/a8b2ab00789a4ef107b342548114974053f49f07-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/assets/uploads/2026/02/7692ef01422dd8b02995cbd294d5991db9d776b2.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/assets/uploads/2026/02/38cf784728a4ab614a188e3fd4e9d02736cd0d80.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/contact/</loc>
 		<lastmod>2026-03-16T03:57:20+00:00</lastmod>
 	</url>
@@ -246,30 +265,5 @@
 	<url>
 		<loc>/blogs/</loc>
 		<lastmod>2026-02-22T06:41:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/about/</loc>
-		<lastmod>2026-02-19T06:21:59+00:00</lastmod>
-		<image:image>
-			<image:loc>/assets/uploads/2026/02/hero-section-bg.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/assets/uploads/2026/02/7692ef01422dd8b02995cbd294d5991db9d776b2.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/assets/uploads/2026/02/7692ef01422dd8b02995cbd294d5991db9d776b2.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/assets/uploads/2026/02/7692ef01422dd8b02995cbd294d5991db9d776b2.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/assets/uploads/2026/02/38cf784728a4ab614a188e3fd4e9d02736cd0d80.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/assets/uploads/2026/02/38cf784728a4ab614a188e3fd4e9d02736cd0d80.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/assets/uploads/2026/02/38cf784728a4ab614a188e3fd4e9d02736cd0d80.webp</image:loc>
-		</image:image>
 	</url>
 </urlset>
