@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2026-03-31T09:33:55+00:00</lastmod>
+		<lastmod>2026-03-31T10:36:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/assets/uploads/2026/02/hero-section-bg.svg</image:loc>
 		</image:image>
@@ -46,31 +46,31 @@
 			<image:loc>/assets/uploads/2026/02/Polygon-9.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/assets/uploads/2026/03/Group-70.webp</image:loc>
+			<image:loc>/assets/uploads/2026/03/image-frame.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/assets/uploads/2026/03/Group-72.webp</image:loc>
+			<image:loc>/assets/uploads/2026/03/Group-70.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/assets/uploads/2026/03/image-frame.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/assets/uploads/2026/02/Awards-1.webp</image:loc>
+			<image:loc>/assets/uploads/2026/03/Group-72.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/assets/uploads/2026/02/Awards-2.webp</image:loc>
+			<image:loc>/assets/uploads/2026/03/Group-70.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/assets/uploads/2026/02/Awards-3.webp</image:loc>
+			<image:loc>/assets/uploads/2026/03/image-frame.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/assets/uploads/2026/02/Awards-1.webp</image:loc>
+			<image:loc>/assets/uploads/2026/03/Group-72.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/assets/uploads/2026/02/Awards-2.webp</image:loc>
+			<image:loc>/assets/uploads/2026/03/Group-70.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/assets/uploads/2026/02/Awards-3.webp</image:loc>
+			<image:loc>/assets/uploads/2026/03/image-frame.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/assets/uploads/2026/03/67423ba8885f64d35fb985477e4b3b1afef04609.webp</image:loc>
