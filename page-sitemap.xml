@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2026-04-10T09:52:22+00:00</lastmod>
+		<lastmod>2026-04-23T01:40:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/assets/uploads/2026/02/hero-section-bg.svg</image:loc>
 		</image:image>
@@ -77,6 +77,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/assets/uploads/2026/03/bdb85918a3d35a1e8fba22b18d3ae46024b6899c.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/about/</loc>
+		<lastmod>2026-04-22T09:19:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/assets/uploads/2026/02/hero-section-bg.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/assets/uploads/2026/02/38cf784728a4ab614a188e3fd4e9d02736cd0d80.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -176,16 +186,6 @@
 	<url>
 		<loc>/privacy-policy/</loc>
 		<lastmod>2026-04-07T14:55:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/about/</loc>
-		<lastmod>2026-03-31T10:22:23+00:00</lastmod>
-		<image:image>
-			<image:loc>/assets/uploads/2026/02/hero-section-bg.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/assets/uploads/2026/02/38cf784728a4ab614a188e3fd4e9d02736cd0d80.webp</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/blogs/</loc>
